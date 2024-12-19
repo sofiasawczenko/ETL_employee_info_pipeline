@@ -29,4 +29,5 @@ The project aims to perform the following tasks:
 
 ## Architecture
 
-![image](https://github.com/vishal-bulbule/etl-pipeline-datafusion-airflow/assets/143475073/0ea51bdb-99cc-4abf-8ccc-8be721462fc3)
+![image](https://github.com/user-attachments/assets/4e8433fe-001c-4979-8a7f-9778bb85dc1b)
+
