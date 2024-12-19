@@ -31,3 +31,6 @@ The project aims to perform the following tasks:
 
 ![image](https://github.com/user-attachments/assets/4e8433fe-001c-4979-8a7f-9778bb85dc1b)
 
+## Running the Pipeline
+
+![image](https://github.com/user-attachments/assets/69a6c99e-2f15-43ac-9644-4f265c592046)
