@@ -2,18 +2,17 @@
 
 This repository contains code and configuration files for an Extract, Transform, Load (ETL) project using Google Cloud Data Fusion for data extraction, Apache Airflow/Composer for orchestration, and Google BigQuery for data loading.
 
---
 ## Problem Statement
 
 You are tasked with creating a data pipeline to extract employee data from various sources, mask sensitive information within the data, and load it into BigQuery. Additionally, you are required to develop a dashboard to visualize the employee data securely.
---
+
 ## Requirements:
 
-Data Extraction: Extract employee data from multiple sources such as databases, CSV files, or APIs.
-Data masking: Identify sensitive information within the employee data, such as social security numbers, salary details, and personal contact information.
-Data Loading into BigQuery: Design a process to securely load extracted and masked employee data into Google BigQuery.
-Dashboard Visualization: Develop a web-based dashboard using visualization tools (e.g., Google Data Studio, Tableau, or custom dashboards).
-
+- **Data Extraction:** Extract employee data from multiple sources such as databases, CSV files, or APIs.
+- **Data masking:** Identify sensitive information within the employee data, such as social security numbers, salary details, and personal contact information.
+- **Data Loading into BigQuery:** Design a process to securely load extracted and masked employee data into Google BigQuery.
+- **Dashboard Visualization:** Develop a web-based dashboard using visualization tools (e.g., Google Data Studio, Tableau, or custom dashboards).
+---
 ## Overview
 
 The project aims to perform the following tasks:
